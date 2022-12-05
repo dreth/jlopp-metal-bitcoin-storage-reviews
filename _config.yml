@@ -14,7 +14,7 @@ description: Stress tests and reviews of seed storage devices
 url: "https://jlopp.defi.navy"
 
 # baseurl should be an empty string
-baseurl: ""
+baseurl: "/"
 
 # --- Navigation bar options --- #
 
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jlopp.github.io/metal-bitcoin-storage-reviews"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jlopp.defi.navy"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

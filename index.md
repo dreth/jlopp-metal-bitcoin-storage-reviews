@@ -598,4 +598,4 @@ There are too many choices, how do I choose?
 3. The best bang for your buck are the single plates with grids for center punched dots such as Bitplates, Blockplate, CodlKeys, Smallseed, or Steelwallet.
 4. The most durable devices I've tested are the Quadrat Register variants.
 
-NOTE: this is an open source project! If you find any out-of-date information such as incorrect prices or broken links, please <a href="https://github.com/jlopp/metal-bitcoin-storage-reviews/issues/new">submit an issue</a>.
+NOTE: this is an open source project! If you find any out-of-date information such as incorrect prices or broken links, please <a href="https://github.com/dreth/jlopp-metal-bitcoin-storage-reviews/issues/new">submit an issue</a>.
