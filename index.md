@@ -5,6 +5,8 @@ subtitle: Stress tests and reviews of seed storage devices.
 use-site-title: true
 ---
 
+<h3 style="text-align:center;">Note: this is a mirror of the <a href="https://jlopp.github.io/metal-bitcoin-storage-reviews/">original site</a></h3>
+&nbsp;
 <div style="text-align:center; font-size:20px">
     <a href="why">Why Perform Stress Tests?</a>
     &nbsp;&nbsp;&nbsp;&nbsp;
