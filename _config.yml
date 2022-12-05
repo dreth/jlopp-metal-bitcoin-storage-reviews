@@ -11,10 +11,10 @@ description: Stress tests and reviews of seed storage devices
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://jlopp.github.io"
+url: "https://jlopp.defi.navy"
 
 # baseurl should be an empty string
-baseurl: "metal-bitcoin-storage-reviews/"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
